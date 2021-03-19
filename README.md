@@ -19,7 +19,7 @@ Fourth, no matter what happen, the captain must be saved!
 And that's it! Please enjoy your journey, bon voyage!
 
 # Requirements:
-node.js, make sure it's the latest version. I'm using v8.10.0 in this case.
+node.js, please make sure that you're using the latest version. I'm using v8.10.0 in this case.
 
 # How to use:
 Simply run using terminal/console "node Case1.js" for Case1, "node Case2.js" for Case2, "node Case3.js" for Case3.
